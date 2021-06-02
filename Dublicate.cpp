@@ -23,6 +23,8 @@ public:
     }
 };
 
+Time Complexity : O(n)
+Space Complexity : O(1) because we are not creating any extra array or linkedlist!
 
 // What is hare and tortoise algorithm :--
 //   In this method , intially we need two pointers one will be fast and another will be slow 
